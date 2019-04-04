@@ -1,4 +1,4 @@
-import { awesomeFn } from "@quramy/x-core/test";
+import { awesomeFn } from "@mycompany/x-core/test";
 
 export function cli() {
   awesomeFn();

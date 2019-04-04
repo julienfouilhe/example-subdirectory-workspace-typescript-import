@@ -1,11 +1,10 @@
 {
-  "name": "@quramy/x-core",
+  "name": "@mycompany/x-core",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "MIT",
