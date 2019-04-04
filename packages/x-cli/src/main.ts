@@ -1,6 +1,6 @@
-import { awesomeFn } from "@mycompany/x-core/test";
+import { otherFn } from "@mycompany/x-core";
 
 export function cli() {
-  awesomeFn();
+  otherFn();
   return Promise.resolve(true);
 }
